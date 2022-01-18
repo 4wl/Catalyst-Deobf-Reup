@@ -1,2 +1,5 @@
-# Catalyst-Deobf-Reup
-This was org deobf by gopro but the repo was taken down so I am reuploading it Lol
+# Catalist-Deobf
+ Catalist client deobfuscated by Gopro336 & perry. <br>
+ Very weak Binscure config lol. <br>
+ Decompiled with procyon. <br>
+ Credits to Crystallinqq for the jar file. <br>
