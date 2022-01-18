@@ -1,0 +1,16 @@
+[
+{
+  "modid": "catalyst",
+  "name": "Catalyst",
+  "description": "A Forge Utility Client specifically designed for the anarchy environment. ",
+  "version": "1.9.11",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Krazzzzymonkey"],
+  "credits": "GoPro336 for deobfuscating and providing procyon src, Perry for helping fix errors.",
+  "logoFile": "catalyst.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
