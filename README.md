@@ -1,5 +1,3 @@
-# Catalist-Deobf
- Catalist client deobfuscated by Gopro336 & perry. <br>
- Very weak Binscure config lol. <br>
- Decompiled with procyon. <br>
- Credits to Crystallinqq for the jar file. <br>
+# Cataylyst Deobf
+Just a note I don't hate the devs this was deobfuscated by Perry and gopro i think
+Two#6969 if u want to clown me but just tell me to takedown the github at any time lol <3
